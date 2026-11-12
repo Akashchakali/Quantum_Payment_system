@@ -46,5 +46,5 @@ streamlit run app.py
 4. Enter password `quantum123`.
 5. Make the payments.
 6. The first payment will succeed.
-7. The second payment will fails because QBER detects eavesdropping.
+7. The second payment will fails because QBER detects eavesdropping.(Which is made for the demo purpose)
 8. Open Transaction History and Graph Analysis to explain the results.
