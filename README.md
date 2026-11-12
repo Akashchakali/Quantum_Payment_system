@@ -44,8 +44,7 @@ streamlit run app.py
 2. Go to Make Payment.
 3. Choose a saved contact.
 4. Enter password `quantum123`.
-5. Make four payments.
-6. The first two will succeed.
-7. The third fails because QBER detects eavesdropping.
-8. The fourth fails because of the insufficient balance demo case.
-9. Open Transaction History and Graph Analysis to explain the results.
+5. Make the payments.
+6. The first payment will succeed.
+7. The second payment will fails because QBER detects eavesdropping.
+8. Open Transaction History and Graph Analysis to explain the results.
